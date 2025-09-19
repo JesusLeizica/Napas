@@ -1,0 +1,29 @@
+# Archivos de datos
+*.json
+!datos_ejemplo.json
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
