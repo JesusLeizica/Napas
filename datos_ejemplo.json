@@ -1,0 +1,252 @@
+{
+  "PM001": {
+    "id": "PM001",
+    "nombre": "Punto Medición Centro",
+    "latitud": -34.6037,
+    "longitud": -58.3816,
+    "descripcion": "Punto ubicado en el centro de Buenos Aires",
+    "fecha_instalacion": "2025-09-19T19:53:27.994210",
+    "activo": true,
+    "mediciones": [
+      {
+        "id": "PM001_20250820_195327",
+        "profundidad_napa": 2.5,
+        "fecha_medicion": "2025-08-20T19:53:27.994257",
+        "observaciones": "Medición de control día 0",
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250823_195327",
+        "profundidad_napa": 2.53,
+        "fecha_medicion": "2025-08-23T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250826_195327",
+        "profundidad_napa": 2.56,
+        "fecha_medicion": "2025-08-26T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250829_195327",
+        "profundidad_napa": 2.59,
+        "fecha_medicion": "2025-08-29T19:53:27.994257",
+        "observaciones": "Medición de control día 9",
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250901_195327",
+        "profundidad_napa": 2.62,
+        "fecha_medicion": "2025-09-01T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250904_195327",
+        "profundidad_napa": 2.65,
+        "fecha_medicion": "2025-09-04T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250907_195327",
+        "profundidad_napa": 2.68,
+        "fecha_medicion": "2025-09-07T19:53:27.994257",
+        "observaciones": "Medición de control día 18",
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250910_195327",
+        "profundidad_napa": 2.71,
+        "fecha_medicion": "2025-09-10T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250913_195327",
+        "profundidad_napa": 2.74,
+        "fecha_medicion": "2025-09-13T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250916_195327",
+        "profundidad_napa": 2.77,
+        "fecha_medicion": "2025-09-16T19:53:27.994257",
+        "observaciones": "Medición de control día 27",
+        "elevacion_superficie": 25.0
+      },
+      {
+        "id": "PM001_20250919_195413",
+        "profundidad_napa": 2.85,
+        "fecha_medicion": "2025-09-19T19:54:13.740130",
+        "observaciones": "Medición de prueba desde CLI",
+        "elevacion_superficie": 25.0
+      }
+    ]
+  },
+  "PM002": {
+    "id": "PM002",
+    "nombre": "Punto Medición Norte",
+    "latitud": -34.589,
+    "longitud": -58.3974,
+    "descripcion": "Punto ubicado en la zona norte",
+    "fecha_instalacion": "2025-09-19T19:53:27.994233",
+    "activo": true,
+    "mediciones": [
+      {
+        "id": "PM002_20250820_195327",
+        "profundidad_napa": 3.0,
+        "fecha_medicion": "2025-08-20T19:53:27.994257",
+        "observaciones": "Medición de control día 0",
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250823_195327",
+        "profundidad_napa": 3.03,
+        "fecha_medicion": "2025-08-23T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250826_195327",
+        "profundidad_napa": 3.06,
+        "fecha_medicion": "2025-08-26T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250829_195327",
+        "profundidad_napa": 3.09,
+        "fecha_medicion": "2025-08-29T19:53:27.994257",
+        "observaciones": "Medición de control día 9",
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250901_195327",
+        "profundidad_napa": 3.12,
+        "fecha_medicion": "2025-09-01T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250904_195327",
+        "profundidad_napa": 3.15,
+        "fecha_medicion": "2025-09-04T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250907_195327",
+        "profundidad_napa": 3.18,
+        "fecha_medicion": "2025-09-07T19:53:27.994257",
+        "observaciones": "Medición de control día 18",
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250910_195327",
+        "profundidad_napa": 3.21,
+        "fecha_medicion": "2025-09-10T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250913_195327",
+        "profundidad_napa": 3.24,
+        "fecha_medicion": "2025-09-13T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 30.0
+      },
+      {
+        "id": "PM002_20250916_195327",
+        "profundidad_napa": 3.27,
+        "fecha_medicion": "2025-09-16T19:53:27.994257",
+        "observaciones": "Medición de control día 27",
+        "elevacion_superficie": 30.0
+      }
+    ]
+  },
+  "PM003": {
+    "id": "PM003",
+    "nombre": "Punto Medición Sur",
+    "latitud": -34.6297,
+    "longitud": -58.3685,
+    "descripcion": "Punto ubicado en la zona sur",
+    "fecha_instalacion": "2025-09-19T19:53:27.994247",
+    "activo": true,
+    "mediciones": [
+      {
+        "id": "PM003_20250820_195327",
+        "profundidad_napa": 3.5,
+        "fecha_medicion": "2025-08-20T19:53:27.994257",
+        "observaciones": "Medición de control día 0",
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250823_195327",
+        "profundidad_napa": 3.53,
+        "fecha_medicion": "2025-08-23T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250826_195327",
+        "profundidad_napa": 3.56,
+        "fecha_medicion": "2025-08-26T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250829_195327",
+        "profundidad_napa": 3.59,
+        "fecha_medicion": "2025-08-29T19:53:27.994257",
+        "observaciones": "Medición de control día 9",
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250901_195327",
+        "profundidad_napa": 3.62,
+        "fecha_medicion": "2025-09-01T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250904_195327",
+        "profundidad_napa": 3.65,
+        "fecha_medicion": "2025-09-04T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250907_195327",
+        "profundidad_napa": 3.68,
+        "fecha_medicion": "2025-09-07T19:53:27.994257",
+        "observaciones": "Medición de control día 18",
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250910_195327",
+        "profundidad_napa": 3.71,
+        "fecha_medicion": "2025-09-10T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250913_195327",
+        "profundidad_napa": 3.74,
+        "fecha_medicion": "2025-09-13T19:53:27.994257",
+        "observaciones": null,
+        "elevacion_superficie": 35.0
+      },
+      {
+        "id": "PM003_20250916_195327",
+        "profundidad_napa": 3.77,
+        "fecha_medicion": "2025-09-16T19:53:27.994257",
+        "observaciones": "Medición de control día 27",
+        "elevacion_superficie": 35.0
+      }
+    ]
+  }
+}
